@@ -1,0 +1,27 @@
+/*put the odd selector here */
+.odd {
+    background-color: #E1605C;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+/*the second element text color and font size*/
+#second {
+    color: blue;
+    font-size: 36px;
+
+}
+
+/*the third has in addition a font size of 24px*/
+/*.odd*/.third {
+    font-size: 24px;
+
+}
+
+/*the fourth element a light green background, a font size of 24px, and bold*/
+#fourth {
+    background-color: #61E18E;
+    font-size: 24px;
+    font-weight: bold;
+
+}
